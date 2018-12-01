@@ -1,6 +1,6 @@
 <template>
   <div>
-    
+    <publicacion-component/>
     <hello-metamask/>
   </div>
 </template>
